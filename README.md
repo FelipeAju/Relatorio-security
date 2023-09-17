@@ -1,7 +1,9 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE MEDIDAS DE SEGURANÇA
 
 Data: 17/09/2023
+
 Empresa: Abstergo Industries 
+
 Responsável: Alberto F O Freire
 
 ## Introdução
